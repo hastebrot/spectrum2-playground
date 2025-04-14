@@ -1,0 +1,32 @@
+{
+  "name": "lexical-react-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@react-spectrum/s2": "^0.8.0",
+    "@tailwindcss/vite": "^4.1.3",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react-swc": "^3.8.1",
+    "clsx": "^2.1.1",
+    "globals": "^16.0.0",
+    "react-aria": "^3.39.0",
+    "react-aria-components": "^1.8.0",
+    "react-error-boundary": "^5.0.0",
+    "react-router-dom": "^7.5.0",
+    "react-stately": "^3.37.0",
+    "tailwindcss": "^4.1.3",
+    "typescript": "^5.8.3",
+    "unplugin-parcel-macros": "^0.1.1",
+    "vite": "^6.2.6"
+  }
+}
